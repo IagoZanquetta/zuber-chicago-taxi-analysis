@@ -17,7 +17,7 @@ Neste projeto, a análise busca gerar evidências quantitativas que possam apoia
 
 O projeto utiliza dados extraídos por meio de consultas SQL e arquivos CSV com resultados agregados relacionados a corridas de táxi em Chicago.
 
-Os arquivos utilizados no projeto são:
+Os arquivos utilizados no projeto estão organizados na pasta `datasets/`:
 
 - `project_sql_result_01.csv`
 - `project_sql_result_04.csv`
@@ -71,10 +71,10 @@ zuber-chicago-taxi-analysis/
 ├── README.md
 ├── requirements.txt
 ├── zuber_chicago_taxi_analysis.ipynb
-├── project_sql_result_01.csv
-├── project_sql_result_04.csv
-├── project_sql_result_07.csv
-└── sql_queries.sql
+└── datasets/
+    ├── project_sql_result_01.csv
+    ├── project_sql_result_04.csv
+    └── project_sql_result_07.csv
 ````
 
 ## Como executar
