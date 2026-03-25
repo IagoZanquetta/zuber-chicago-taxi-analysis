@@ -30,6 +30,10 @@ Esses dados incluem informações como:
 - duração de corridas em rotas específicas
 - condições climáticas associadas às viagens
 
+## Objetivo do Projeto
+
+Analisar dados de corridas de táxi em Chicago para identificar padrões de mercado, comparar empresas e bairros e testar a hipótese de influência do clima sobre a duração das corridas em rotas específicas.
+
 ## Objetivos da Análise
 
 Este projeto busca responder perguntas como:
@@ -114,6 +118,8 @@ Entre os principais focos do projeto, estão:
 
 ## Resultados
 
+Combinação de consultas SQL, análise exploratória e teste estatístico para investigação do comportamento do mercado de táxis. Identificação de concentração de corridas por empresa e por bairro, além de avaliação quantitativa do efeito de sábados chuvosos na duração de viagens do Loop para o Aeroporto O'Hare.
+
 O notebook inclui:
 
 * preparação e validação dos dados
@@ -125,6 +131,23 @@ O notebook inclui:
 ## Conclusão
 
 Este projeto demonstra como SQL, análise exploratória de dados e testes estatísticos podem ser combinados para investigar padrões de mobilidade urbana e apoiar decisões estratégicas. A análise permite identificar concentração de mercado, comportamento das viagens por bairro e possíveis efeitos do clima sobre a duração das corridas.
+
+## O que foi aprendido
+
+Desenvolvimento e consolidação de habilidades em:
+- extração de dados com SQL
+- análise exploratória com foco em mobilidade urbana
+- construção de visualizações comparativas
+- formulação e teste de hipóteses
+- interpretação estatística aplicada ao negócio
+
+## Melhorias Futuras
+
+Possibilidades de evolução do projeto:
+- incluir mais rotas e períodos na análise
+- aprofundar o estudo do impacto do clima
+- incorporar variáveis adicionais sobre trânsito e horário
+- construir painéis visuais para comparação dinâmica
 
 ## Autor
 
